@@ -1,0 +1,44 @@
+* {
+  font-family: "Poppins", sans-serif !important;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.rootObjetivos {
+  width: 100%;
+}
+
+.circule {
+  height: 10px;
+  width: 10px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+.containerObjetivos {
+  width: 90%;
+  margin: 0 auto;
+  text-align: justify;
+  text-justify: inter-word;
+}
+.containerSoftwareAsignado {
+  text-align: justify;
+  width: 90%;
+  margin: 0 auto;
+  text-justify: inter-word;
+}
+.containerCompatibilidad {
+  text-align: justify;
+  width: 90%;
+  margin: 0 auto;
+  text-justify: inter-word;
+}
+.containerIndex {
+  min-height: 500px;
+}
+#title {
+  margin-top: 100px;
+}
